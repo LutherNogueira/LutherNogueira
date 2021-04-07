@@ -40,7 +40,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthernogueira&amp;theme=dracula" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthernogueira&amp;theme=dracula" style="max-width:100%;">
 </div>
 
-👀 **I’m interested in Programing, Games, Fantasy**
+👀 **I’m interested in Programing, Games, Fantasy and Writing**
 
 <div>
 <img height="100" src="https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/offer/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S6-1200x1600-132fc1f63bf40a41cddbff3bab7acc52.jpg" alt="Game">
