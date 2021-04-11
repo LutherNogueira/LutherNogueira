@@ -49,6 +49,7 @@
 <img height="100" src="https://image.api.playstation.com/cdn/UP0082/CUSA00288_00/8B4roSt9E7Qz2z7eWp9lTxMvMsbdIBS5.png" alt="Game">
 <img height="100" src="https://gamingrefined.com/pub/media/catalog/product/cache/dc92d299f760167a090fb4a7ebec63c2/f/e/fe3h-cover.jpg" alt="Game">
 <img height="100" src="https://i.redd.it/75rjpmgqedf11.jpg" alt="Game">
+ <img height="100" src="https://github.com/LutherNogueira/Arcamo/blob/main/Potuguese/img/Capa.jpg" alt="Book">
 
 <!--
 <img height="100" src="" alt="Game"> -->
