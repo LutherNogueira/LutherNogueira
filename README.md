@@ -1,17 +1,15 @@
+👋 **Hi, I’m @LutherNogueira**
 <div>
 <!--LinkedIn-->
 <a href="https://github.com/LutherNogueira">
-<img src="https://camo.githubusercontent.com/3d3898b05a66ed9f0a7b801e9b100d5b4c7d8a3184083749a7dcc066ab7953fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d2d626c75653f7374796c653d736f6369616c266c6f676f3d6c696e6b6564696e266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6574746f72652d6c65616e64726f2d746f676e6f6c692f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/Linkedin--blue?style=social&amp;logo=linkedin&amp;link=https://www.linkedin.com/in/luananogueiradev" style="max-width:100%;">
+<img height="30" src="https://media.discordapp.net/attachments/955651863418650665/955652618192060476/linkedIn.jpg" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/Linkedin--blue?style=social&amp;logo=linkedin&amp;link=https://www.linkedin.com/in/luananogueiradev">
 </a>
 <!--Discord-->
 <a href="https://discord.gg/pTjA2WHq8f">
-<img src="https://camo.githubusercontent.com/9d501883451ab7168806da03c1ee10a1cc521f68e4a875d82a4f4b918d0e2e92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2d626c75653f7374796c653d736f6369616c266c6f676f3d646973636f7264266c696e6b3d68747470733a2f2f646973636f72642e67672f4d7236797870345a4532" alt="Discord Badge" data-canonical-src="https://img.shields.io/badge/Discord--blue?style=social&amp;logo=discord&amp;link=https://discord.gg/pTjA2WHq8f" style="max-width:100%;">
+<img height="30" src="https://media.discordapp.net/attachments/955651863418650665/955652618405953556/discord.jpg" alt="Discord Badge" data-canonical-src="https://img.shields.io/badge/Discord--blue?style=social&amp;logo=discord&amp;link=https://discord.gg/pTjA2WHq8f">
 </a>
 </div>
-
-👋 **Hi, I’m @LutherNogueira**
-
-
+<br>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=luthernogueira&amp;show_icons=true&amp;theme=dracula" alt="GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=luthernogueira&amp;show_icons=true&amp;theme=dracula" style="max-width:100%;">
 </div>
