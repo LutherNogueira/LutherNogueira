@@ -11,11 +11,15 @@
 
 👋 **Hi, I’m @LutherNogueira**
 
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=luthernogueira&amp;show_icons=true&amp;theme=dracula" alt="GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=luthernogueira&amp;show_icons=true&amp;theme=dracula" style="max-width:100%;">
 </div>
 
+<hr>
+
 🌱 **I’m currently learning**
+
 <div>
  
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg">
@@ -32,6 +36,8 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthernogueira&amp;theme=dracula" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthernogueira&amp;theme=dracula" style="max-width:100%;">
 </div>
+
+<hr>
 
 👀 **I’m interested in Programing, Games, Fantasy and Writing**
 
