@@ -30,7 +30,7 @@
 🌱 **I’m currently learning**
 <div>
  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
@@ -50,9 +50,8 @@
 <img height="100" src="https://cdn1.epicgames.com/c8ff067c1c984cd7ab1998e8a9afc8b6/offer/EGS_KINGDOMHEARTSHD28FinalChapterPrologue_SquareEnix_S6-1200x1600-a3fc8fc218fe1ff3541dc2b5b9f076d7.jpg" alt="Game">
 <img height="100" src="https://upload.wikimedia.org/wikipedia/pt/0/0f/Legend_of_Zelda_Breath_of_the_Wild_capa.png" alt="Game">
 <img height="100" src="https://image.api.playstation.com/cdn/UP0082/CUSA00288_00/8B4roSt9E7Qz2z7eWp9lTxMvMsbdIBS5.png" alt="Game">
-<img height="100" src="https://gamingrefined.com/pub/media/catalog/product/cache/dc92d299f760167a090fb4a7ebec63c2/f/e/fe3h-cover.jpg" alt="Game">
 <img height="100" src="https://i.redd.it/75rjpmgqedf11.jpg" alt="Game">
- <img height="100" src="https://github.com/LutherNogueira/Arcamo/blob/main/Potuguese/img/Capa.jpg" alt="Book">
+<img height="100" src="https://github.com/LutherNogueira/Arcamo/blob/main/Potuguese/img/Capa.jpg" alt="Book">
 
 <!--
 <img height="100" src="" alt="Game"> -->
