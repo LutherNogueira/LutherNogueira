@@ -21,9 +21,10 @@
 <div>
  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg">
  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg">
- <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg">
  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+ <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/googlecloud/googlecloud-original.svg">
+ <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original.svg">
 </div>
 
